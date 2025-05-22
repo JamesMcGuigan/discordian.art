@@ -1,0 +1,10 @@
+{
+  "redirects": [
+    {
+      "source": "/(.*)",
+      "destination": "https://goldenapplegallery.printify.me/category/all/1?sort=price-desc",
+      "permanent": true
+    }
+  ]
+}
+
